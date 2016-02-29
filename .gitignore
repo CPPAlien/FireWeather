@@ -1,0 +1,9 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+FireWeather.iml
+app/app.iml
+.DS_Store
+/build
+/captures
