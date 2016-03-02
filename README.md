@@ -1,0 +1,1 @@
+[Demo Download](http://7xq276.com2.z0.glb.qiniucdn.com/fireweather.apk)
